@@ -1,0 +1,11 @@
+C:\XIRPL3\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\XIRPL3\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\XIRPL3\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\XIRPL3\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\XIRPL3\CRUD\CRUD\obj\Debug\CRUD.Form2.resources
